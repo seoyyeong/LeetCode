@@ -3,7 +3,6 @@ public:
     string simplifyPath(string path) {
         
         string ans;
-        string temp;
         
         stack<string> st; 
         int size = path.size();
